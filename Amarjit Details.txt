@@ -1,6 +1,6 @@
 Home:
 
-I'M MR. Amarjit Kharga
+I'M MR. Aman Jain
 Software Developer
 
 Having 6+ Years of good development & Experiences in Developing Web based applications using JAVA 8 and Spring Boot, Micro services, Restful Web services, Kafka, Web Flux, Spring Cloud
@@ -8,11 +8,11 @@ Having 6+ Years of good development & Experiences in Developing Web based applic
 Personal Infos:
 
 Name-Amarjit Kumar
-Age-29
-Address-Bangalore
-Mobile No-8892644310
-Mail id- amarjit.kharga2018@gmail.com
-skype id- amarjit.kharga90
+Age-30
+Address-Pune
+Mobile No-9004406014
+Mail id- tech1jain@gmail.com
+skype id- aman.jain
 language- Hindi, English
 Nationality- Indian
 Freelance- Available
